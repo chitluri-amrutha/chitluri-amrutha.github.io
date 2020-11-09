@@ -199,7 +199,7 @@ footer.footsy ul li{
 }
 
 /*##############____Mobile____##########*/
-@media screen and (max-width:900px){
+@media screen and (max-width:1200px){
     ul.topnav li:not(:nth-child(1)){
         display:none;
     }
