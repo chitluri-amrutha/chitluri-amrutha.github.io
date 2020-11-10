@@ -254,9 +254,8 @@ footer.footsy ul li{
         margin:15px;
     }
     div.engine img{
-        width:85%;
-        height:100%
-        display:block;
+        width:95%;
+        height:auto;
         
     }
     div.shiftLeft,
