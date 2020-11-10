@@ -256,6 +256,7 @@ footer.footsy ul li{
     div.engine img{
         width:85%;
         height:320px;
+        display:block;
         
     }
     div.shiftLeft,
